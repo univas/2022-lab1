@@ -26,5 +26,4 @@ public class Exercicio35 {
 
         leitura.close();
     }
-    }
 }
